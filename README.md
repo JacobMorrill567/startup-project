@@ -25,6 +25,25 @@
   - Stores past rankings for the user to look back on
   - Ability to send rankings to other users, and see what they sent you
 
+### Technologies
+
+I will use the required technologies in the following ways:
+
+  - **HTML** - Will use HTML as the base structure for the application to create 5 html pages:
+      - Login screen
+      - Creating an account
+      - Ranking the items
+      - Sharing rankings and looking at what others shared with you
+      - Viewing previous rankings
+  - **CSS** - Will use CSS for styling and formatting the web pages so that they are visably appealing to the user, and to help them understand how to use the program.
+  - **React** - React will provide several things for the program such as the login, item display, drag/drop functionality, and displaying what other users sent you.
+  - **Service** - Backend service will provide endpoints for:
+      - login
+      - storing rankings
+      - sending and recieving rankings
+  - **DB/Login** - Will store users, login credentials, rankings completed by the user, and rankings sent to and from the user.
+  - **WebSocket** - Broadcast rankings that are sent to the user.
+
 
 
 
