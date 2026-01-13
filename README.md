@@ -38,13 +38,13 @@ I will use the required technologies in the following ways:
       - Sharing rankings and looking at what others shared with you
       - Viewing previous rankings
   - **CSS** - Styling and formatting the web pages so that they are visably appealing to the user, and to help them understand how to use the program.
-  - **React** - React will provide several things for the program such as the login, item display, drag/drop functionality, and displaying what other users sent you.
+  - **React** - Provide login, item display, drag/drop functionality, displaying the rankings other users sent you, and cleanly switching between html pages.
   - **Service** - Backend service will provide endpoints for:
       - login
       - storing rankings
       - sending and recieving rankings
   - **DB/Login** - Store users, login credentials, rankings completed by the user, and rankings sent to and from the user.
-  - **WebSocket** - Broadcast rankings that are sent to the user.
+  - **WebSocket** - Communicate the rankings being sent between different users.
 
 
 
