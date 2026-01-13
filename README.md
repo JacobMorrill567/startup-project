@@ -4,6 +4,8 @@
 
 ### Elevator Pitch
 
+Have you ever had a debate with your friends about what the best pizza topping is, best ice cream flavor, or the most powerful super hero of all time? But, maybe you didn't have a great way to show what you were saying, or there were to many opininons going around at once? Well, with RankMe, you can create your custom rankings about any category and with any items you want in an ordered list, or in a tier list. You can also see your previous rankings and share them with others! No need to restrict these fun arguments to person when you can have a platform that allows you to rank anything in a fun and organized way, and so you can have it with you forever. Now, everyone in the group can have a say in the discussion, and enjoy good friendly arguments, with RankMe.  
+
 ### Design
 
 <img width="287" height="179" alt="Screenshot 2026-01-12 223852" src="https://github.com/user-attachments/assets/02265b8a-ed46-4e7e-aca1-a83faf316046" />
