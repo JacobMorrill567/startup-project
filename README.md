@@ -48,9 +48,20 @@ I will use the required technologies in the following ways:
 
 ## HTML Deliverable
 
-### Things added
+For this deliverable I did the following:
+- HTML Pages: 6 HTML pages. index.html, createAccount.html, play.html, about.html, share.html, saved.html.
+- Proper HTML element usage: I used many different tags to format my website and provide structure to it.
+- Links: Added links to navigate to every web page on the website.
+- Text: About page has text.
+- 3rd Party API placeholder: Selecting a provided ranking from the drop down menu will pull items in that category from a 3rd party API.
+- Images: About page has an image that relates to the website description.
+- Login Placeholder: Placeholder for signing in and creating a new account.
+- DB data placeholder: Past rankings stored on saved.html.
+- Websocket placeholder: The share page shows what other people have sent you. You can send the ranking you are working on or any of your past rankings.
 
-- Added a feature where you can select one of your pervious rankings and send to people.
+### Things added from original design
+
+- Added a feature where you can select one of your previous rankings and send to people.
 - Turned the "view past rankings" button into a link that can be accessed from multiple pages on the website.
 - Added an About page where you can see read about the website and how you can use it.
 - Added an E and an F tier to the tier list on the ranking page.
